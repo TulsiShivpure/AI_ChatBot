@@ -3,8 +3,7 @@
 **An intelligent conversational AI system for analyzing e-commerce data using natural language queries**
 
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-active-success.svg)
+
 
 ---
 
